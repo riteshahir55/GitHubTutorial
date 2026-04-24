@@ -1,7 +1,7 @@
 export const login = (username, password) => {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
-      if (username === "test" && password === "123") {
+      if (username === "test" && password === "1234") {
         resolve({
           status: 200,
           data: { token: "fake-token" }
