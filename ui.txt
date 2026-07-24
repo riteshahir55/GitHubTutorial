@@ -2,10 +2,6 @@ only there in ui branch
 
 fixed
 
-<<<<<<< HEAD
 adding line from main
 
 pushing this new change to main
-=======
-adding this line to learn stash
->>>>>>> stashRepo
