@@ -5,3 +5,5 @@ fixed
 text from stashRepo
 
 text from feature branch
+
+pr branch text
