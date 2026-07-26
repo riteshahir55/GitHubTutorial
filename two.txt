@@ -1,3 +1,5 @@
 two
 
 making changes for stash
+
+commit B
